@@ -10,6 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [Calculator](https://github.com/HungryFluff/Calculator)
 
+[PiCalc](https://github.com/HungryFluff/PiCalc)
+
 ```markdown
 Syntax highlighted code block
 

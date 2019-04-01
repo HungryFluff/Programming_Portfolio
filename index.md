@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[Link](https://github.com/HungryFluff/Calculator)
+[Calculator](https://github.com/HungryFluff/Calculator)
 
 ```markdown
 Syntax highlighted code block

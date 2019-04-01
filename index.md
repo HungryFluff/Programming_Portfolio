@@ -12,6 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [PiCalc](https://github.com/HungryFluff/PiCalc)
 
+[LotteryPlay](https://github.com/HungryFluff/LotteryPlay)
+
+[CashRegister](https://github.com/HungryFluff/LotteryPlay)
 ```markdown
 Syntax highlighted code block
 
